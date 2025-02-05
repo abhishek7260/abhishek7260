@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 I'm currently working on: ML models, data pipelines, and AI research.<br><br>🤝 I'm looking to collaborate on: Open-source projects and MLOps.<br><br>🆘 I'm looking for help with: Scaling ML models efficiently.<br><br>📚 I'm currently learning: Time series forecasting and LSTMs.<br><br>💡 Ask me about: Feature engineering and model evaluation.<br><br><br><br><br><br><br><br><br><br><br>
+🚀 **I'm currently working on:** ML models, data pipelines, and AI research.<br><br>🤝 **I'm looking to collaborate on:** Open-source projects and MLOps.<br><br>🆘 **I'm looking for help with:** Scaling ML models efficiently.<br><br>📚 **I'm currently learning:** Time series forecasting and LSTMs.<br><br>💡 **Ask me about:** Feature engineering and model evaluation.
 
 
 ## 🌐 Socials:
